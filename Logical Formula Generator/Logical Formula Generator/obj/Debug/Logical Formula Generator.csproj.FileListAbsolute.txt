@@ -1,0 +1,6 @@
+D:\Incoming\Logical Formula Generator\Logical Formula Generator\bin\Debug\Logical Formula Generator.exe.config
+d:\Incoming\Logical Formula Generator\Logical Formula Generator\bin\Debug\Logical Formula Generator.exe
+d:\Incoming\Logical Formula Generator\Logical Formula Generator\bin\Debug\Logical Formula Generator.pdb
+d:\Incoming\Logical Formula Generator\Logical Formula Generator\obj\Debug\Logical Formula Generator.csprojResolveAssemblyReference.cache
+d:\Incoming\Logical Formula Generator\Logical Formula Generator\obj\Debug\Logical Formula Generator.exe
+d:\Incoming\Logical Formula Generator\Logical Formula Generator\obj\Debug\Logical Formula Generator.pdb
